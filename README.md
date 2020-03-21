@@ -1,6 +1,4 @@
-## React Hooks
-
----
+# React Hooks
 
 Creating the app with a login system implemented via React Hooks.
 
@@ -13,6 +11,8 @@ Below is information on creating an empty React application.
 This is the first step in the process of creating an application.
 
 I left it unchanged.
+
+---
 
 ---
 
