@@ -2,8 +2,6 @@
 
 Creating the app with a login system implemented via React Hooks.
 
-Creating an application web part (frontend) with a login system implemented using React Hooks.
-
 I will add about the build proccess later.
 
 Below is information on creating an empty React application.
